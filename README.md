@@ -1,22 +1,17 @@
 
 
-<!--
-**jkjk809/jkjk809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# The Lone Wolf
 
-Here are some ideas to get you started:
+- instinctively alpha
+- owns multiple NFTs
+- non-conformist
+- lurks in basement shadow
+- secretly a 10x developer but afraid to unleash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hey 👋, I'm Jayden</h1>
-<h2 align="center">A computer science student who enjoys self-studying graphics programming</h2>
-<h3 align="center">When I find the time...</h3>
+Its me. I'm the lone wolf
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkjk809&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="jkjk809" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkjk809&theme=gruvbox" alt="jkjk809" /></p>
+![The Lone Wolf](wolf.jpg)
+
+## CS student ✅ Draven Main ✅ Frog Lover ✅ Robin is the best Strawhat ✅
+
+i only code in flow state
