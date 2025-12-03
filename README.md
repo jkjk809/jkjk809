@@ -10,8 +10,3 @@
 
 Its me. I'm the lone wolf
 
-![The Lone Wolf](wolf.jpg)
-
-## CS student ✅ Draven Main ✅ Frog Lover ✅ Robin is the best Strawhat ✅
-
-i only code in flow state. check out my work below :)
